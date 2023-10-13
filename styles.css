@@ -1,0 +1,19 @@
+body{
+    background-color:powderblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+hl {
+    color:lavenderblush;
+    text-align:center;
+}
+
+.assign {
+    margin: 10px;
+    padding: 10px;
+    background-color: floralwhite;
+    display: flex;
+}
+.assign img{
+    width: 200px;
+    padding: 10px;
+}
